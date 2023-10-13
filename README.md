@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **⛓️ LangChain**
 
-- 👨‍💻 All of my projects are available at [https://bogdanjovanovic.dev/](https://bogdanjovanovic.dev/projects/)
+- 👨‍💻 All of my projects are available at [https://bogdanjovanovic.dev/projects/](https://bogdanjovanovic.dev/projects/)
 
 - 📫 How to reach me **bogdan.jovanovic@hotmail.com**
 
