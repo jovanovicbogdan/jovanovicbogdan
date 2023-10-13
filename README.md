@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI Chatbot**
 
-- 🌱 I’m currently learning **⛓️ LangChain**
+- 🌱 I’m currently learning **🦜️🔗 LangChain**
 
 - 👨‍💻 All of my projects are available at [https://bogdanjovanovic.dev/projects/](https://bogdanjovanovic.dev/projects/)
 
